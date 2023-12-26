@@ -1,6 +1,6 @@
 category: javascript
 title: javascript basic
-lectures: Shin
+lectures: Park
 related:
 - typescript
 - React
