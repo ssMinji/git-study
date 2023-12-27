@@ -1,6 +1,6 @@
 category: javascript
 title: javascript basic
-lectures: Ko
+lectures: Lee
 related:
 - typescript
 - React
